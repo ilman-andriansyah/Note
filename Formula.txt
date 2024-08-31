@@ -1,0 +1,23 @@
+="MD "&A1 | ="MD "&CHAR(34)&A1&CHAR(34)
+
+win upgrade -all
+
+filetype:xls AND intext:password | site:instagram.com "niche" "location" "@gmail.com" --> email extractor extension
+
+Faktur Pembelian Barang:
+
+Kode Supplier:AD01
+Nama Supplier:Pradipta
+Tanggal: 19/10/2020
+Nomor: 779
+Kode Barang: C01
+Nama Barang: Choper
+Qty: 10
+Harga: 700.000
+Jumlah: 7.000.000
+Total Faktur: 7000.000
+Jatuh Tempo Faktur: 20/12/2020
+
+Berdasarkan faktur diatas, jelaskan langkah-langkah normalisasi data dari 1NF sampai 2NF sehingga terbentuk visualisasi tabel-tabel beserta relasinya.
+
+https://member.teerazone.com - 2#hC8fpNN3!Ph-c#TTQS3H
